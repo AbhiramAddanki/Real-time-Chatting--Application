@@ -6,7 +6,7 @@ A Java-based chat application that enables real-time communication between users
 
 
 chatting-application/
-├── Chatting Application/
+├── Chatting Application
 │   ├── src/           # Source code files
 │   ├── nbproject/     # NetBeans project configuration
 │   ├── build.xml     # Ant build script
