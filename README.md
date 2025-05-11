@@ -6,12 +6,20 @@ A Java-based chat application that enables real-time communication between users
 
 
 chatting-application/
-├── Chatting Application
-│   ├── src/           # Source code files
-│   ├── nbproject/     # NetBeans project configuration
-│   ├── build.xml     # Ant build script
-│   └── manifest.mf    # Manifest file
-
+├── README.md                # Project overview and instructions
+├── build.xml                # Apache Ant build script
+├── manifest.mf              # Manifest file for JAR packaging
+├── nbproject/               # NetBeans-specific project configuration
+│   └── ...                  # (Keep only if you're using NetBeans)
+├── src/                     # Java source code
+│   ├── com/
+│   │   └── yourname/
+│   │       └── chatapp/
+│   │           ├── Server.java
+│   │           ├── Client.java
+│   │           └── ...      # other classes
+└── docs/                    # (Optional) Documentation, if any
+vv
 
 ## Technologies Used
 
