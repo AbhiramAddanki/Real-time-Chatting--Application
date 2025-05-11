@@ -31,6 +31,13 @@ chatting-application/
 2. Build the project using the build.xml file
 3. Run the application
 
+ScreenShot
+
+
+![Project1](https://github.com/user-attachments/assets/a214ad0e-cdb1-4c6f-b166-e3489ec14565)
+
+
+
 ## Features
 
 - Real-time chat functionality
