@@ -3,19 +3,15 @@
 A Java-based chat application that enables real-time communication between users.
 
 ## Project Structure
-'''chatting-application/
-├── README.md               # Project overview and instructions
-├── build.xml               # Apache Ant build script
-├── manifest.mf             # Manifest file for JAR packaging
-├── nbproject/              # NetBeans-specific project configuration (keep only if you're using NetBeans)
-├── src/                    # Java source code
-│   └── com/
-│       └── yourname/
-│           └── chatapp/
-│               ├── Server.java
-│               ├── Client.java
-│               └── ...     # other classes
-└── docs/                   # (Optional) Documentation, if any
+
+```
+chatting-application/
+├── Chatting Application/
+│   ├── src/           # Source code files
+│   ├── nbproject/     # NetBeans project configuration
+│   ├── build.xml     # Ant build script
+│   └── manifest.mf    # Manifest file
+```
 
 ## Technologies Used
 
@@ -24,8 +20,10 @@ A Java-based chat application that enables real-time communication between users
 - Ant Build System
 
 ## Getting Started
+![WhatsApp Image 2025-05-12 at 01 20 25_43db9759](https://github.com/user-attachments/assets/a474b404-7b4a-453f-83c1-610d808a8a8c)
 
 ### Prerequisites
+
 - Java Development Kit (JDK)
 - NetBeans IDE (recommended)
 
@@ -35,13 +33,6 @@ A Java-based chat application that enables real-time communication between users
 2. Build the project using the build.xml file
 3. Run the application
 
-ScreenShot
-
-
-![Project1](https://github.com/user-attachments/assets/a214ad0e-cdb1-4c6f-b166-e3489ec14565)
-
-
-
 ## Features
 
 - Real-time chat functionality
@@ -50,4 +41,5 @@ ScreenShot
 
 ## Build and Deployment
 
-The project uses Apache Ant for building, as specified in the build.xml file. You can build the project using NetBeans IDE or directly through Ant commands.
+The project uses Apache Ant for building, as specified in the `build.xml` file. You can build the project using NetBeans IDE or directly through Ant commands.
+
