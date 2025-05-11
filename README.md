@@ -3,7 +3,7 @@
 A Java-based chat application that enables real-time communication between users.
 
 ## Project Structure
-chatting-application/
+'''chatting-application/
 ├── README.md               # Project overview and instructions
 ├── build.xml               # Apache Ant build script
 ├── manifest.mf             # Manifest file for JAR packaging
